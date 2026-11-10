@@ -49,3 +49,4 @@ print(f"Total de testes: {total_testes}")
 print("=" * 50)
 print("       INICIALIZAÇÃO CONCLUÍDA")
 print("=" * 50)
+
