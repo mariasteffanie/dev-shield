@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 
 # Nome do aluno: Gustavo Emidio
 # Este programa apresenta um relatório com os resultados
 # de uma execução de testes do sistema LearnHub EdTech.
 
+=======
+# Nome do aluno: Gustavo Emidio
+# Este programa apresenta um relatório com os resultados
+# de uma execução de testes do sistema LearnHub EdTech.
+
+>>>>>>> 36b5a4b0a6159ceea28f0fa82bb53f856ec4b82f
 # Aqui guardamos as informações principais do projeto.
 projeto = "LearnHub EdTech"
 modulo = "Emissão de Certificados e Validação de Notas"
