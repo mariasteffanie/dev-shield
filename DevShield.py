@@ -24,9 +24,9 @@ testes_executados = testes_aprovados + testes_reprovados
 print("Testes Executados: " + str(testes_executados))
 
 taxa_aprovacao = (testes_aprovados / total_testes)*100
-print("Taxa de Aprovação: " + str(taxa_aprovacao))
+print("Taxa de Aprovação: " + str(taxa_aprovacao)+ "%")
 taxa_reprovacao = (testes_reprovados / total_testes)*100
-print("Taxa de Reprovados: " + str(taxa_reprovacao))
+print("Taxa de Reprovados: " + str(taxa_reprovacao)+ "%")
 taxa_nao_executados = (testes_nao_executados / total_testes)*100
-print("Taxa de Reprovados: " + str(taxa_nao_executados)) 
+print("Taxa de Reprovados: " + str(taxa_nao_executados)+ "%") 
 print("---------------------------------------- CÁLCULOS CONCLUÍDOS ---------------------------------------- ")
