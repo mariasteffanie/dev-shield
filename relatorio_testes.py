@@ -16,6 +16,7 @@ print("Testes Aprovados: " + str(testes_aprovados))
 print("Testes Reprovados: " + str(testes_reprovados))
 print("Testes Não Executados: " + str(testes_nao_executados))
 
+
 print("---------------------------------------- RESULTADOS REGISTRADOS ----------------------------------------")
 
 
